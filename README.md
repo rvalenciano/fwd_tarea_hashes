@@ -1,4 +1,4 @@
-## Arrays
+## Hashes
 
 La idea es crear el codigo dentro de los metodos requeridos basados en los hints que se proveen en los comentarios de codigo, usando los conceptos aprendidos en esta leccion.
 
@@ -21,7 +21,7 @@ undefined local variable or method ...
 
 Es parte de la asignacion que el estudiante de manera autodidacta sea capaz de leer los mensajes, buscar que significan, y que pidan ayuda si no son capaces de avanzar.
 
-2. Consultar la documentacion oficial de arrays ya existentes en Ruby para poder completar la tarea asignada. Ver https://rubyapi.org/
+2. Consultar la documentacion oficial de hashes ya existentes en Ruby para poder completar la tarea asignada. Ver https://rubyapi.org/3.2/o/hash
 
 
 ## Tests
