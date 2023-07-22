@@ -21,8 +21,7 @@ undefined local variable or method ...
 
 Es parte de la asignacion que el estudiante de manera autodidacta sea capaz de leer los mensajes, buscar que significan, y que pidan ayuda si no son capaces de avanzar.
 
-2. Consultar la documentacion oficial de metodos ya existentes en Ruby para poder completar la tarea asignada. Ver https://rubyapi.org/
-3. Es esperado
+2. Consultar la documentacion oficial de arrays ya existentes en Ruby para poder completar la tarea asignada. Ver https://rubyapi.org/
 
 
 ## Tests
